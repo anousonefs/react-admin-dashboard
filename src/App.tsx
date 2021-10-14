@@ -1,8 +1,18 @@
 import React from "react"
+import TopBar from "./components/topbar/TopBar"
+import SideBar from "./components/sidebar/SideBar"
 import "./App.css"
 
-function App() {
-    return <div></div>
+const App: React.FC = () => {
+    return (
+        <div className="App">
+            <TopBar />
+            <div className="container">
+                <SideBar />
+                <div className="others">others pages</div>
+            </div>
+        </div>
+    )
 }
 
 export default App
