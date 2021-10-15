@@ -5,9 +5,5 @@
 
 .container {
     display: flex;
-}
-
-.others {
-    flex: 5;
-    background-color: red;
+    margin-top: 10px;
 }

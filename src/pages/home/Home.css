@@ -1,0 +1,11 @@
+.home {
+    display: flex;
+    flex: 5;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* font-size: 30px; */
+}
+.homeWidgets {
+    display: flex;
+    margin: 20px;
+}
