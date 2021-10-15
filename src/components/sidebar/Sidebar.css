@@ -1,8 +1,8 @@
 .sidebar {
-    flex: 2;
-    border-right: 1px solid grey;
+    flex: 1;
+    height: calc(100vh - 50px);
     color: #555;
     position: sticky;
-    top: calc(100vh - 50px);
+    top: 50px;
     margin-bottom: 50px;
 }

@@ -1,15 +1,16 @@
 .App {
     margin: 0;
     box-sizing: border-box;
+    min-height: 100vh;
+    width: 100vw;
 }
 
 .container {
     display: flex;
-    flex-direction: row;
+    margin-top: 10px;
 }
 
 .others {
     flex: 4;
     background-color: red;
-    height: calc(100vh - 50px);
 }
