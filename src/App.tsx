@@ -3,7 +3,7 @@ import Topbar from "./components/topbar/Topbar"
 import Sidebar from "./components/sidebar/Sidebar"
 import "./App.css"
 
-function App() {
+const App: React.FC = () => {
     return (
         <div className="App">
             <Topbar />
