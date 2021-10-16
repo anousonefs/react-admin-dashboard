@@ -12,14 +12,11 @@ import {
 
 import "./chart.css"
 
-interface dataType {
-    name: string
-    "Active User": number
-}
+import { dataType, saleDataType } from "../dummyData"
 
 interface Props {
     title: string
-    data: dataType[]
+    data: dataType[] | saleDataType[]
     dataKey: string
     grid: boolean
 }
