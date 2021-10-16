@@ -1,25 +1,25 @@
 ## [Preview](https://determined-haibt-93eb88.netlify.app/)<br>
 ### Home Page
 <p margin-left: 100px>
-  <img src="https://github.com/anousoneFS/react-admin-dashboard/blob/main/home.png" width="500" title="hover text">
+  <img src="https://github.com/anousoneFS/react-admin-dashboard/blob/main/home.png" width="800" title="hover text">
 </p>
 <br>
 
 ### Product
 <p margin-left: 100px>
-  <img src="https://github.com/anousoneFS/react-admin-dashboard/blob/main/product.png" width="500" title="hover text">
+  <img src="https://github.com/anousoneFS/react-admin-dashboard/blob/main/product.png" width="800" title="hover text">
 </p>
 <br>
 
 ### Edit Product
 <p margin-left: 100px>
-  <img src="https://github.com/anousoneFS/react-admin-dashboard/blob/main/editProduct.png" width="500" title="hover text">
+  <img src="https://github.com/anousoneFS/react-admin-dashboard/blob/main/editProduct.png" width="800" title="hover text">
 </p>
 <br>
 
 ### Edit User
 <p margin-left: 100px>
-  <img src="https://github.com/anousoneFS/react-admin-dashboard/blob/main/editUser.png" width="500" title="hover text">
+  <img src="https://github.com/anousoneFS/react-admin-dashboard/blob/main/editUser.png" width="800" title="hover text">
 </p>
 
 
