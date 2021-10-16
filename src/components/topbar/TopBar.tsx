@@ -7,7 +7,7 @@ function TopBar() {
         <div className="topbar">
             <div className="topbarWrapper">
                 <div className="topbarLeft">
-                    <span className="logo">jdb fx</span>
+                    <span className="logo">Admin</span>
                 </div>
                 <div className="topbarRight">
                     <div className="topbarIconContainer">
