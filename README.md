@@ -1,4 +1,4 @@
-## [Preview](https://determined-haibt-93eb88.netlify.app/)<br>
+## [Press Preview Link](https://determined-haibt-93eb88.netlify.app/)<br>
 ### Home Page
 <p margin-left: 100px>
   <img src="https://github.com/anousoneFS/react-admin-dashboard/blob/main/home.png" width="800" title="hover text">
